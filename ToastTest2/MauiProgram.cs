@@ -17,7 +17,10 @@ public static class MauiProgram
 			});
 		
 		
-			builder.UseMauiCommunityToolkit();
+			builder.UseMauiCommunityToolkit(options =>
+            {
+                options.SetShouldEnableSnackbarOnWindows(true);
+            });
 
 #if DEBUG
 		builder.Logging.AddDebug();

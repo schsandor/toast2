@@ -27238,11 +27238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\vscode\\toast2\\ToastTest2\\ToastTest2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\schsandor\\toast2\\ToastTest2\\ToastTest2.csproj",
       "projectName": "ToastTest2",
-      "projectPath": "C:\\Users\\User\\vscode\\toast2\\ToastTest2\\ToastTest2.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\schsandor\\toast2\\ToastTest2\\ToastTest2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\vscode\\toast2\\ToastTest2\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\schsandor\\toast2\\ToastTest2\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
